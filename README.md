@@ -15,11 +15,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 5. Print accuracy value, predicted value and actual values. 
 
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by:Shaik Shoaib Nawaz 
-RegisterNumber:212222240094 
+Developed by:Vasanthamukilan M
+RegisterNumber:212222230167
 */
 import pandas as pd
 import numpy as np
